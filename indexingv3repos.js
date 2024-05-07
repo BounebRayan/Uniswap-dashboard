@@ -9,7 +9,7 @@ const octokit = new Octokit({
 async function fetchPages(keyword1, keyword2, min, max, page = 1) {
     try {
         const response = await octokit.request("GET /search/code", {
-            q:  `${keyword1} OR ${keyword2} path:/ filename:package.json size:${min}..${max}`,
+            q:  `${keyword1} OR ${keyword2} filename:package.json size:${min}..${max}`,
             sort: "stars",
             order: "desc",
             per_page: 100,
