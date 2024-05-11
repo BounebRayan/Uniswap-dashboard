@@ -1,4 +1,5 @@
 'use client';
+import { RiInformationLine } from "@remixicon/react";
 import { Card, DonutChart, Legend} from "@tremor/react";
 
 interface DataItem {
@@ -21,15 +22,16 @@ export default function ContributionCount(props:ContributionCountProps) {
           category="sales"
           variant="pie"
           index="name"
-          colors={['blue', 'cyan', 'indigo', 'violet', 'fuchsia']}
+          colors={['slate', 'blue', 'indigo', 'violet', 'fuchsia']}
           className="w-72 mr-3 z-10"
         />
          <Legend
                     categories={props.data.map(item => item.name)}
-                    colors={['blue', 'cyan', 'indigo', 'violet', 'fuchsia']}
+                    colors={['slate', 'blue', 'indigo', 'violet', 'fuchsia']}
                     className="max-w-xs w-fit"
                 />
         </div>
+        <p className="mt-2 text-tremor-default text-tremor-content dark:text-dark-tremor-content"><RiInformationLine className="inline"/> Displays the number of contributors with a specific level of contribution.</p>
         </Card>
   );
 }

@@ -41,6 +41,9 @@ export default async function handler(req, res) {
     `;
     const topStarredRepos = await executeQuery(topStarredReposQuery);
 
+    const contributorsQuery = `SELECT COUNT(Distinct(contributor)) AS contributors_count FROM contributions`;
+    const contributorsResult = await executeQuery(contributorsQuery);
+
     // Fetch other metrics
     const statsQuery = `
       SELECT 
@@ -61,6 +64,7 @@ export default async function handler(req, res) {
 
     const metrics = {
       top_contributors: topContributors,
+      total_contributors: contributorsResult[0].contributors_count,
       top_starred_repos: topStarredRepos,
       stats: stats
     };

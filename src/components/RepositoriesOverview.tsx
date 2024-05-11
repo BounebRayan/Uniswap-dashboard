@@ -27,7 +27,7 @@ export default function RepositoriesOverview(props:any){
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 px-3">
                 <RepositoryCard count={metrics?.stats[0].total_repositories} values={[Math.floor((metrics?.stats[0].total_user_repos / metrics?.stats[0]?.total_repositories)* 100), 100 - Math.floor((metrics?.stats[0]?.total_user_repos / metrics?.stats[0]?.total_repositories)* 100)]} />
                 <MyCard color="yellow" icon={<RiStarLine/>} name="Total Stars" count={metrics?.stats[0]?.total_stars} divider="Popular Repositories" data={metrics?.top_starred_repos} type="star"/>
-                <MyCard color="green" icon={<RiUserFollowLine/>} name="Total Contributors" count={metrics?.stats[0]?.total_contributors} divider="Top Contributers" data={metrics?.top_contributors} type="contribution"/>
+                <MyCard color="green" icon={<RiUserFollowLine/>} name="Total Contributors" count={metrics?.total_contributors} divider="Top Contributers" data={metrics?.top_contributors} type="contribution"/>
                 <div className="flex-col justify-center space-y-2">
                 <MyCard color="red" icon={<RiGitForkFill/>} name="Total Forks" count={metrics?.stats[0]?.total_forks}/>
                 <ProgressCard closedIssues={metrics?.stats[0]?.total_closed_issues} issues={metrics?.stats[0]?.total_issues} mergedPRs={metrics?.stats[0]?.total_merges} pullRequests={metrics?.stats[0]?.total_pulls}/>

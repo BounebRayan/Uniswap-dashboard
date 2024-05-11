@@ -17,7 +17,8 @@ export default function StatsCard(props: any) {
       { name: fetchedData.contributions.name, value: fetchedData.contributions.value },
       ...fetchedData.pullRequests,
       ...fetchedData.issues,
-      {name:fetchedData.repos.name,value:fetchedData.repos.value}
+      {name:fetchedData.repos.name,value:fetchedData.repos.value},
+      {name:fetchedData.contributors.name,value:fetchedData.contributors.value}
     ];
     return transformedData;
   };

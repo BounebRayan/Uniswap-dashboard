@@ -1,1 +1,11 @@
-{"/_app":"pages/_app.js","/_error":"pages/_error.js","/api/getContributorsStats":"pages/api/getContributorsStats.js","/api/getLatestActivities":"pages/api/getLatestActivities.js","/api/getTable":"pages/api/getTable.js","/api/getStatsByDate":"pages/api/getStatsByDate.js","/api/getchartData":"pages/api/getchartData.js","/api/metrics":"pages/api/metrics.js","/_document":"pages/_document.js","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/getLatestActivities": "pages/api/getLatestActivities.js",
+  "/api/getStatsByDate": "pages/api/getStatsByDate.js",
+  "/api/metrics": "pages/api/metrics.js",
+  "/api/getchartData": "pages/api/getchartData.js",
+  "/api/getContributorsStats": "pages/api/getContributorsStats.js",
+  "/api/getTable": "pages/api/getTable.js"
+}

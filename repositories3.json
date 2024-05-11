@@ -8,8 +8,8 @@
     "url": "https://github.com/apholdings/uridium-protocol"
   },
   {
-    "full_name": "eden-network/uniswap-v3-static-quoter",
-    "url": "https://github.com/eden-network/uniswap-v3-static-quoter"
+    "full_name": "tkhq/sdk",
+    "url": "https://github.com/tkhq/sdk"
   },
   {
     "full_name": "ChaosLabsInc/uniswap-v3-oracle-cli",
@@ -20,220 +20,344 @@
     "url": "https://github.com/bijianing97/pyth_publisher"
   },
   {
-    "full_name": "zdbrig/blockchain-gpt",
-    "url": "https://github.com/zdbrig/blockchain-gpt"
-  },
-  {
-    "full_name": "pilagod/LimitSwap",
-    "url": "https://github.com/pilagod/LimitSwap"
-  },
-  {
-    "full_name": "alexsanya/zk-sync-gas-broker",
-    "url": "https://github.com/alexsanya/zk-sync-gas-broker"
-  },
-  {
-    "full_name": "cryptoav11/CourseSteps",
-    "url": "https://github.com/cryptoav11/CourseSteps"
-  },
-  {
-    "full_name": "4nibhal/uniswapV3_arbitrage",
-    "url": "https://github.com/4nibhal/uniswapV3_arbitrage"
-  },
-  {
-    "full_name": "xtokenmarket/uniswap-position-manager",
-    "url": "https://github.com/xtokenmarket/uniswap-position-manager"
-  },
-  {
-    "full_name": "ChaosLabsInc/uniswap-v3-oracle-hardhat-plugin",
-    "url": "https://github.com/ChaosLabsInc/uniswap-v3-oracle-hardhat-plugin"
-  },
-  {
-    "full_name": "SimSimButDifferent/UniswapV3Foundry",
-    "url": "https://github.com/SimSimButDifferent/UniswapV3Foundry"
-  },
-  {
     "full_name": "lukmanuthmanabubakr/sphere-token",
     "url": "https://github.com/lukmanuthmanabubakr/sphere-token"
-  },
-  {
-    "full_name": "Douglas360/liquidity",
-    "url": "https://github.com/Douglas360/liquidity"
-  },
-  {
-    "full_name": "Smurf-Village/LP-Aggreator",
-    "url": "https://github.com/Smurf-Village/LP-Aggreator"
-  },
-  {
-    "full_name": "Anton1636/ICO-Token-Liquidity-Marketplace",
-    "url": "https://github.com/Anton1636/ICO-Token-Liquidity-Marketplace"
-  },
-  {
-    "full_name": "yousonnet/uni_quant",
-    "url": "https://github.com/yousonnet/uni_quant"
-  },
-  {
-    "full_name": "asa93/King-of-the-fools-smart-contract",
-    "url": "https://github.com/asa93/King-of-the-fools-smart-contract"
-  },
-  {
-    "full_name": "emenella/DEX-scrapping",
-    "url": "https://github.com/emenella/DEX-scrapping"
-  },
-  {
-    "full_name": "michaldedyk98/UniswapV3_testing",
-    "url": "https://github.com/michaldedyk98/UniswapV3_testing"
-  },
-  {
-    "full_name": "tomi204/SwapPage",
-    "url": "https://github.com/tomi204/SwapPage"
-  },
-  {
-    "full_name": "voznyibohdan/voting-token",
-    "url": "https://github.com/voznyibohdan/voting-token"
-  },
-  {
-    "full_name": "hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777",
-    "url": "https://github.com/hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777"
-  },
-  {
-    "full_name": "casmirconsensys/Uni-Trap",
-    "url": "https://github.com/casmirconsensys/Uni-Trap"
-  },
-  {
-    "full_name": "VaporFi/vapordex-contracts-v2",
-    "url": "https://github.com/VaporFi/vapordex-contracts-v2"
-  },
-  {
-    "full_name": "nampeung22/groupProj",
-    "url": "https://github.com/nampeung22/groupProj"
-  },
-  {
-    "full_name": "marciob/fetch-price-UniswapV3",
-    "url": "https://github.com/marciob/fetch-price-UniswapV3"
-  },
-  {
-    "full_name": "monsterafk/NFT-auction",
-    "url": "https://github.com/monsterafk/NFT-auction"
-  },
-  {
-    "full_name": "jinbinhan/UniswapERC20",
-    "url": "https://github.com/jinbinhan/UniswapERC20"
-  },
-  {
-    "full_name": "risedle/arbitrage-bot",
-    "url": "https://github.com/risedle/arbitrage-bot"
-  },
-  {
-    "full_name": "tkhq/sdk",
-    "url": "https://github.com/tkhq/sdk"
-  },
-  {
-    "full_name": "knstl/bridge-eth-contract-deprecated",
-    "url": "https://github.com/knstl/bridge-eth-contract-deprecated"
-  },
-  {
-    "full_name": "GMX-Blueberry-Club/blueberry-club",
-    "url": "https://github.com/GMX-Blueberry-Club/blueberry-club"
-  },
-  {
-    "full_name": "marcuspang/transientoor",
-    "url": "https://github.com/marcuspang/transientoor"
-  },
-  {
-    "full_name": "codefunded/p-bnxt-contracts",
-    "url": "https://github.com/codefunded/p-bnxt-contracts"
-  },
-  {
-    "full_name": "yaonam/ArbiTryBot",
-    "url": "https://github.com/yaonam/ArbiTryBot"
-  },
-  {
-    "full_name": "thenextblock/defi-toolbox",
-    "url": "https://github.com/thenextblock/defi-toolbox"
-  },
-  {
-    "full_name": "awkwardalz/myuniswap",
-    "url": "https://github.com/awkwardalz/myuniswap"
-  },
-  {
-    "full_name": "lj92458/js_rpc_server",
-    "url": "https://github.com/lj92458/js_rpc_server"
-  },
-  {
-    "full_name": "KcPele/scafold-liquidity-pool",
-    "url": "https://github.com/KcPele/scafold-liquidity-pool"
-  },
-  {
-    "full_name": "nanndaxyz/bots",
-    "url": "https://github.com/nanndaxyz/bots"
   },
   {
     "full_name": "sambacha/sushirelay-explore",
     "url": "https://github.com/sambacha/sushirelay-explore"
   },
   {
-    "full_name": "brinc-finance/brincx-vault-v1",
-    "url": "https://github.com/brinc-finance/brincx-vault-v1"
+    "full_name": "cetra-finance/cetra-core-evm",
+    "url": "https://github.com/cetra-finance/cetra-core-evm"
   },
   {
-    "full_name": "andersonlthome/node-server-nft-fiat",
-    "url": "https://github.com/andersonlthome/node-server-nft-fiat"
+    "full_name": "Snowfork/braintrust-fee-converter",
+    "url": "https://github.com/Snowfork/braintrust-fee-converter"
   },
   {
-    "full_name": "cryptonomicon46/ETH_DAI_Swap",
-    "url": "https://github.com/cryptonomicon46/ETH_DAI_Swap"
+    "full_name": "1kx-network/overlayLiq",
+    "url": "https://github.com/1kx-network/overlayLiq"
   },
   {
-    "full_name": "sherlock-audit/2023-11-convergence",
-    "url": "https://github.com/sherlock-audit/2023-11-convergence"
+    "full_name": "butternetwork/butter-server",
+    "url": "https://github.com/butternetwork/butter-server"
   },
   {
-    "full_name": "eez-open/eez-flow-ext-uniswap",
-    "url": "https://github.com/eez-open/eez-flow-ext-uniswap"
+    "full_name": "ccn1010/arbitrage",
+    "url": "https://github.com/ccn1010/arbitrage"
   },
   {
-    "full_name": "BillArmsty/Sandwicher",
-    "url": "https://github.com/BillArmsty/Sandwicher"
+    "full_name": "hany-peak/uniswap-v3-sdk",
+    "url": "https://github.com/hany-peak/uniswap-v3-sdk"
   },
   {
-    "full_name": "dfns/dfns-sdk-ts",
-    "url": "https://github.com/dfns/dfns-sdk-ts"
-  },
-  {
-    "full_name": "shivanshxyz/coin_tracker_telegram",
-    "url": "https://github.com/shivanshxyz/coin_tracker_telegram"
-  },
-  {
-    "full_name": "Popsicle-Finance/PopsicleV3Optimizer",
-    "url": "https://github.com/Popsicle-Finance/PopsicleV3Optimizer"
+    "full_name": "pilagod/LimitSwap",
+    "url": "https://github.com/pilagod/LimitSwap"
   },
   {
     "full_name": "ClipFinance/strategy-router",
     "url": "https://github.com/ClipFinance/strategy-router"
   },
   {
-    "full_name": "LimitRangerOrg/contract",
-    "url": "https://github.com/LimitRangerOrg/contract"
+    "full_name": "ansonantony/DEAI",
+    "url": "https://github.com/ansonantony/DEAI"
   },
   {
-    "full_name": "ChaosLabsInc/uniswap-v3-oracle-pool-mocker",
-    "url": "https://github.com/ChaosLabsInc/uniswap-v3-oracle-pool-mocker"
+    "full_name": "dfns/dfns-sdk-ts",
+    "url": "https://github.com/dfns/dfns-sdk-ts"
   },
   {
-    "full_name": "vdaubry/MiniDca",
-    "url": "https://github.com/vdaubry/MiniDca"
+    "full_name": "tomi204/SwapPage",
+    "url": "https://github.com/tomi204/SwapPage"
   },
   {
-    "full_name": "dmpierre/specular-uniswap",
-    "url": "https://github.com/dmpierre/specular-uniswap"
+    "full_name": "Smurf-Village/LP-Aggreator",
+    "url": "https://github.com/Smurf-Village/LP-Aggreator"
   },
   {
     "full_name": "brinktrade/range-orders",
     "url": "https://github.com/brinktrade/range-orders"
   },
   {
+    "full_name": "SimSimButDifferent/UniswapV3Foundry",
+    "url": "https://github.com/SimSimButDifferent/UniswapV3Foundry"
+  },
+  {
+    "full_name": "jinbinhan/UniswapERC20",
+    "url": "https://github.com/jinbinhan/UniswapERC20"
+  },
+  {
+    "full_name": "yushaku/telegram_bot",
+    "url": "https://github.com/yushaku/telegram_bot"
+  },
+  {
+    "full_name": "karankurbur/WorldcoinContractsMonorepo",
+    "url": "https://github.com/karankurbur/WorldcoinContractsMonorepo"
+  },
+  {
+    "full_name": "marciob/fetch-price-UniswapV3",
+    "url": "https://github.com/marciob/fetch-price-UniswapV3"
+  },
+  {
+    "full_name": "yousonnet/uni_quant",
+    "url": "https://github.com/yousonnet/uni_quant"
+  },
+  {
+    "full_name": "GraphLinq/glqswap-scripts",
+    "url": "https://github.com/GraphLinq/glqswap-scripts"
+  },
+  {
+    "full_name": "michaldedyk98/UniswapV3_testing",
+    "url": "https://github.com/michaldedyk98/UniswapV3_testing"
+  },
+  {
+    "full_name": "risedle/arbitrage-bot",
+    "url": "https://github.com/risedle/arbitrage-bot"
+  },
+  {
+    "full_name": "andersonlthome/node-server-nft-fiat",
+    "url": "https://github.com/andersonlthome/node-server-nft-fiat"
+  },
+  {
+    "full_name": "ChaosLabsInc/uniswap-v3-oracle-pool-mocker",
+    "url": "https://github.com/ChaosLabsInc/uniswap-v3-oracle-pool-mocker"
+  },
+  {
+    "full_name": "Anton1636/ICO-Token-Liquidity-Marketplace",
+    "url": "https://github.com/Anton1636/ICO-Token-Liquidity-Marketplace"
+  },
+  {
+    "full_name": "BillArmsty/Sandwicher",
+    "url": "https://github.com/BillArmsty/Sandwicher"
+  },
+  {
+    "full_name": "cryptoav11/CourseSteps",
+    "url": "https://github.com/cryptoav11/CourseSteps"
+  },
+  {
+    "full_name": "promarat/Pancakeswap-trading-bot",
+    "url": "https://github.com/promarat/Pancakeswap-trading-bot"
+  },
+  {
+    "full_name": "0xneves/uniswap",
+    "url": "https://github.com/0xneves/uniswap"
+  },
+  {
+    "full_name": "sherlock-audit/2023-11-convergence",
+    "url": "https://github.com/sherlock-audit/2023-11-convergence"
+  },
+  {
+    "full_name": "LeapFi/contracts-v1",
+    "url": "https://github.com/LeapFi/contracts-v1"
+  },
+  {
+    "full_name": "anovius/prom",
+    "url": "https://github.com/anovius/prom"
+  },
+  {
+    "full_name": "yaonam/ArbiTryBot",
+    "url": "https://github.com/yaonam/ArbiTryBot"
+  },
+  {
+    "full_name": "NorVirae/mev-bot-cross-exchange",
+    "url": "https://github.com/NorVirae/mev-bot-cross-exchange"
+  },
+  {
+    "full_name": "DeFund-protocol/v1-sdk",
+    "url": "https://github.com/DeFund-protocol/v1-sdk"
+  },
+  {
+    "full_name": "eez-open/eez-flow-ext-uniswap",
+    "url": "https://github.com/eez-open/eez-flow-ext-uniswap"
+  },
+  {
+    "full_name": "chimpydev/genieswap-uni-v3-sdk",
+    "url": "https://github.com/chimpydev/genieswap-uni-v3-sdk"
+  },
+  {
+    "full_name": "voznyibohdan/voting-token",
+    "url": "https://github.com/voznyibohdan/voting-token"
+  },
+  {
+    "full_name": "casmirconsensys/Uni-Trap",
+    "url": "https://github.com/casmirconsensys/Uni-Trap"
+  },
+  {
     "full_name": "AztecProtocol/dev-rel",
     "url": "https://github.com/AztecProtocol/dev-rel"
+  },
+  {
+    "full_name": "Casper0513/GemoneyWeb",
+    "url": "https://github.com/Casper0513/GemoneyWeb"
+  },
+  {
+    "full_name": "FLock-io/ETHOxford2024",
+    "url": "https://github.com/FLock-io/ETHOxford2024"
+  },
+  {
+    "full_name": "MahaDAO/arth-strategies",
+    "url": "https://github.com/MahaDAO/arth-strategies"
+  },
+  {
+    "full_name": "KcPele/scafold-liquidity-pool",
+    "url": "https://github.com/KcPele/scafold-liquidity-pool"
+  },
+  {
+    "full_name": "GMX-Blueberry-Club/blueberry-club",
+    "url": "https://github.com/GMX-Blueberry-Club/blueberry-club"
+  },
+  {
+    "full_name": "xtokenmarket/uniswap-position-manager",
+    "url": "https://github.com/xtokenmarket/uniswap-position-manager"
+  },
+  {
+    "full_name": "cryptonomicon46/ETH_DAI_Swap",
+    "url": "https://github.com/cryptonomicon46/ETH_DAI_Swap"
+  },
+  {
+    "full_name": "vdaubry/MiniDca",
+    "url": "https://github.com/vdaubry/MiniDca"
+  },
+  {
+    "full_name": "lyra-finance/lyra-scripts",
+    "url": "https://github.com/lyra-finance/lyra-scripts"
+  },
+  {
+    "full_name": "DavidLeeChaum/USSDv2",
+    "url": "https://github.com/DavidLeeChaum/USSDv2"
+  },
+  {
+    "full_name": "lj92458/js_rpc_server",
+    "url": "https://github.com/lj92458/js_rpc_server"
+  },
+  {
+    "full_name": "asa93/OptionsDefi",
+    "url": "https://github.com/asa93/OptionsDefi"
+  },
+  {
+    "full_name": "PyCodeJunkie/Uniswap-Bot-Optimism-",
+    "url": "https://github.com/PyCodeJunkie/Uniswap-Bot-Optimism-"
+  },
+  {
+    "full_name": "codefunded/p-bnxt-contracts",
+    "url": "https://github.com/codefunded/p-bnxt-contracts"
+  },
+  {
+    "full_name": "nanndaxyz/bots",
+    "url": "https://github.com/nanndaxyz/bots"
+  },
+  {
+    "full_name": "zOthix/uniswapv3-deploy-contracts",
+    "url": "https://github.com/zOthix/uniswapv3-deploy-contracts"
+  },
+  {
+    "full_name": "anywai/udao-contracts",
+    "url": "https://github.com/anywai/udao-contracts"
+  },
+  {
+    "full_name": "nampeung22/groupProj",
+    "url": "https://github.com/nampeung22/groupProj"
+  },
+  {
+    "full_name": "AarenWang/uniswap-v3-research",
+    "url": "https://github.com/AarenWang/uniswap-v3-research"
+  },
+  {
+    "full_name": "SimSimButDifferent/L7-UniStablecoinFlashSwapArbBot",
+    "url": "https://github.com/SimSimButDifferent/L7-UniStablecoinFlashSwapArbBot"
+  },
+  {
+    "full_name": "Zubaid-AhmedZia/uniswapV3",
+    "url": "https://github.com/Zubaid-AhmedZia/uniswapV3"
+  },
+  {
+    "full_name": "marcuspang/transientoor",
+    "url": "https://github.com/marcuspang/transientoor"
+  },
+  {
+    "full_name": "brinc-finance/brincx-vault-v1",
+    "url": "https://github.com/brinc-finance/brincx-vault-v1"
+  },
+  {
+    "full_name": "etant/vwap_bot",
+    "url": "https://github.com/etant/vwap_bot"
+  },
+  {
+    "full_name": "sauravs/ARB_BOT_V1",
+    "url": "https://github.com/sauravs/ARB_BOT_V1"
+  },
+  {
+    "full_name": "LimitRangerOrg/contract",
+    "url": "https://github.com/LimitRangerOrg/contract"
+  },
+  {
+    "full_name": "shivanshxyz/coin_tracker_telegram",
+    "url": "https://github.com/shivanshxyz/coin_tracker_telegram"
+  },
+  {
+    "full_name": "zdbrig/blockchain-gpt",
+    "url": "https://github.com/zdbrig/blockchain-gpt"
+  },
+  {
+    "full_name": "4nibhal/uniswapV3_arbitrage",
+    "url": "https://github.com/4nibhal/uniswapV3_arbitrage"
+  },
+  {
+    "full_name": "polywrap/uniswap",
+    "url": "https://github.com/polywrap/uniswap"
+  },
+  {
+    "full_name": "monsterafk/NFT-auction",
+    "url": "https://github.com/monsterafk/NFT-auction"
+  },
+  {
+    "full_name": "chimpytuts/privatepools-clp-sdk",
+    "url": "https://github.com/chimpytuts/privatepools-clp-sdk"
+  },
+  {
+    "full_name": "hargunkaur286/lisk",
+    "url": "https://github.com/hargunkaur286/lisk"
+  },
+  {
+    "full_name": "copyNdpaste/uniswap-v3-with-ethers",
+    "url": "https://github.com/copyNdpaste/uniswap-v3-with-ethers"
+  },
+  {
+    "full_name": "knstl/bridge-eth-contract-deprecated",
+    "url": "https://github.com/knstl/bridge-eth-contract-deprecated"
+  },
+  {
+    "full_name": "ChaosLabsInc/uniswap-v3-oracle-hardhat-plugin",
+    "url": "https://github.com/ChaosLabsInc/uniswap-v3-oracle-hardhat-plugin"
+  },
+  {
+    "full_name": "VaporFi/vapordex-contracts-v2",
+    "url": "https://github.com/VaporFi/vapordex-contracts-v2"
+  },
+  {
+    "full_name": "alexsanya/zk-sync-gas-broker",
+    "url": "https://github.com/alexsanya/zk-sync-gas-broker"
+  },
+  {
+    "full_name": "kotik98/alpa-router",
+    "url": "https://github.com/kotik98/alpa-router"
+  },
+  {
+    "full_name": "Obsidian-Desci/hardhat",
+    "url": "https://github.com/Obsidian-Desci/hardhat"
+  },
+  {
+    "full_name": "SimSimButDifferent/UniswapV3LocalTestSetup",
+    "url": "https://github.com/SimSimButDifferent/UniswapV3LocalTestSetup"
+  },
+  {
+    "full_name": "anywai/UDAO-PROJECT2",
+    "url": "https://github.com/anywai/UDAO-PROJECT2"
+  },
+  {
+    "full_name": "asa93/King-of-the-fools-smart-contract",
+    "url": "https://github.com/asa93/King-of-the-fools-smart-contract"
   },
   {
     "full_name": "code-423n4/2023-05-maia",
@@ -244,156 +368,32 @@
     "url": "https://github.com/0xWormh0le/adv-bc"
   },
   {
-    "full_name": "XFantasy88/rcpswap-cross-chain",
-    "url": "https://github.com/XFantasy88/rcpswap-cross-chain"
-  },
-  {
-    "full_name": "DecenterApps/RateX",
-    "url": "https://github.com/DecenterApps/RateX"
-  },
-  {
-    "full_name": "Obsidian-Desci/hardhat",
-    "url": "https://github.com/Obsidian-Desci/hardhat"
-  },
-  {
-    "full_name": "yushaku/telegram_bot",
-    "url": "https://github.com/yushaku/telegram_bot"
-  },
-  {
-    "full_name": "codingJourneyFromUnemployment/LiquidityMarket",
-    "url": "https://github.com/codingJourneyFromUnemployment/LiquidityMarket"
-  },
-  {
-    "full_name": "lyra-finance/lyra-scripts",
-    "url": "https://github.com/lyra-finance/lyra-scripts"
-  },
-  {
-    "full_name": "anywai/UDAO-PROJECT2",
-    "url": "https://github.com/anywai/UDAO-PROJECT2"
-  },
-  {
-    "full_name": "FLock-io/ETHOxford2024",
-    "url": "https://github.com/FLock-io/ETHOxford2024"
-  },
-  {
-    "full_name": "Gobindapaull/solidity-basics-code",
-    "url": "https://github.com/Gobindapaull/solidity-basics-code"
-  },
-  {
-    "full_name": "polywrap/uniswap",
-    "url": "https://github.com/polywrap/uniswap"
-  },
-  {
-    "full_name": "Snowfork/braintrust-fee-converter",
-    "url": "https://github.com/Snowfork/braintrust-fee-converter"
-  },
-  {
-    "full_name": "0xneves/uniswap",
-    "url": "https://github.com/0xneves/uniswap"
-  },
-  {
-    "full_name": "faraasat/blockchain-ethereum-solana-rust-go",
-    "url": "https://github.com/faraasat/blockchain-ethereum-solana-rust-go"
-  },
-  {
-    "full_name": "asa93/OptionsDefi",
-    "url": "https://github.com/asa93/OptionsDefi"
-  },
-  {
-    "full_name": "anovius/prom",
-    "url": "https://github.com/anovius/prom"
-  },
-  {
-    "full_name": "dmihal/lido-uni-v3-pool",
-    "url": "https://github.com/dmihal/lido-uni-v3-pool"
-  },
-  {
-    "full_name": "kotik98/alpa-router",
-    "url": "https://github.com/kotik98/alpa-router"
-  },
-  {
-    "full_name": "marcgraczyk/recursive_llm_organization",
-    "url": "https://github.com/marcgraczyk/recursive_llm_organization"
-  },
-  {
-    "full_name": "chimpydev/genieswap-uni-v3-sdk",
-    "url": "https://github.com/chimpydev/genieswap-uni-v3-sdk"
-  },
-  {
-    "full_name": "Casper0513/GemoneyWeb",
-    "url": "https://github.com/Casper0513/GemoneyWeb"
-  },
-  {
-    "full_name": "LeapFi/contracts-v1",
-    "url": "https://github.com/LeapFi/contracts-v1"
-  },
-  {
     "full_name": "rebase-network/UniswapV3-Learning",
     "url": "https://github.com/rebase-network/UniswapV3-Learning"
   },
   {
-    "full_name": "GraphLinq/glqswap-scripts",
-    "url": "https://github.com/GraphLinq/glqswap-scripts"
+    "full_name": "dmpierre/specular-uniswap",
+    "url": "https://github.com/dmpierre/specular-uniswap"
   },
   {
-    "full_name": "promarat/Pancakeswap-trading-bot",
-    "url": "https://github.com/promarat/Pancakeswap-trading-bot"
+    "full_name": "tokenwood/Loanster",
+    "url": "https://github.com/tokenwood/Loanster"
   },
   {
-    "full_name": "chimpytuts/privatepools-clp-sdk",
-    "url": "https://github.com/chimpytuts/privatepools-clp-sdk"
+    "full_name": "Douglas360/liquidity",
+    "url": "https://github.com/Douglas360/liquidity"
+  },
+  {
+    "full_name": "hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777",
+    "url": "https://github.com/hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777"
   },
   {
     "full_name": "g1ibby/uniswap-tracker-ts",
     "url": "https://github.com/g1ibby/uniswap-tracker-ts"
   },
   {
-    "full_name": "butternetwork/butter-server",
-    "url": "https://github.com/butternetwork/butter-server"
-  },
-  {
-    "full_name": "anggxyz/uniswap-twap",
-    "url": "https://github.com/anggxyz/uniswap-twap"
-  },
-  {
-    "full_name": "sauravs/ARB_BOT_V1",
-    "url": "https://github.com/sauravs/ARB_BOT_V1"
-  },
-  {
-    "full_name": "versedpro/uniswap-mempool-sniper",
-    "url": "https://github.com/versedpro/uniswap-mempool-sniper"
-  },
-  {
-    "full_name": "bluentity/daobi",
-    "url": "https://github.com/bluentity/daobi"
-  },
-  {
-    "full_name": "SimSimButDifferent/UniswapV3LocalTestSetup",
-    "url": "https://github.com/SimSimButDifferent/UniswapV3LocalTestSetup"
-  },
-  {
-    "full_name": "zOthix/uniswapv3-deploy-contracts",
-    "url": "https://github.com/zOthix/uniswapv3-deploy-contracts"
-  },
-  {
-    "full_name": "Armand-Morin/simple_int-on-chain-storage",
-    "url": "https://github.com/Armand-Morin/simple_int-on-chain-storage"
-  },
-  {
-    "full_name": "DeFund-protocol/v1-sdk",
-    "url": "https://github.com/DeFund-protocol/v1-sdk"
-  },
-  {
-    "full_name": "SimSimButDifferent/L7-UniStablecoinFlashSwapArbBot",
-    "url": "https://github.com/SimSimButDifferent/L7-UniStablecoinFlashSwapArbBot"
-  },
-  {
-    "full_name": "ccn1010/arbitrage",
-    "url": "https://github.com/ccn1010/arbitrage"
-  },
-  {
-    "full_name": "maxmux-xyz/uniswap-quotes-proto",
-    "url": "https://github.com/maxmux-xyz/uniswap-quotes-proto"
+    "full_name": "eden-network/uniswap-v3-static-quoter",
+    "url": "https://github.com/eden-network/uniswap-v3-static-quoter"
   },
   {
     "full_name": "Emmanuelonyo/shitcoin",
@@ -412,30 +412,6 @@
     "url": "https://github.com/Rahmanunjan/blockchain-projects"
   },
   {
-    "full_name": "PAMild/Grop6Project",
-    "url": "https://github.com/PAMild/Grop6Project"
-  },
-  {
-    "full_name": "codefunded/p-brainstarter-contracts",
-    "url": "https://github.com/codefunded/p-brainstarter-contracts"
-  },
-  {
-    "full_name": "cryptonomicon46/SuperRare",
-    "url": "https://github.com/cryptonomicon46/SuperRare"
-  },
-  {
-    "full_name": "ChmielewskiKamil/maia-audit",
-    "url": "https://github.com/ChmielewskiKamil/maia-audit"
-  },
-  {
-    "full_name": "MoonsDusts/rcpswap-cross-chain",
-    "url": "https://github.com/MoonsDusts/rcpswap-cross-chain"
-  },
-  {
-    "full_name": "daulathussain/Create-Liquidity-Marketplace",
-    "url": "https://github.com/daulathussain/Create-Liquidity-Marketplace"
-  },
-  {
     "full_name": "litemaker/braintrust-fee-converter",
     "url": "https://github.com/litemaker/braintrust-fee-converter"
   },
@@ -444,80 +420,124 @@
     "url": "https://github.com/RhettButler529/tradeBOT_cool"
   },
   {
+    "full_name": "cryptonomicon46/SuperRare",
+    "url": "https://github.com/cryptonomicon46/SuperRare"
+  },
+  {
+    "full_name": "codefunded/p-brainstarter-contracts",
+    "url": "https://github.com/codefunded/p-brainstarter-contracts"
+  },
+  {
+    "full_name": "PAMild/Grop6Project",
+    "url": "https://github.com/PAMild/Grop6Project"
+  },
+  {
     "full_name": "vimageDE/uniswap",
     "url": "https://github.com/vimageDE/uniswap"
   },
   {
-    "full_name": "copyNdpaste/uniswap-v3-with-ethers",
-    "url": "https://github.com/copyNdpaste/uniswap-v3-with-ethers"
+    "full_name": "daulathussain/Create-Liquidity-Marketplace",
+    "url": "https://github.com/daulathussain/Create-Liquidity-Marketplace"
   },
   {
-    "full_name": "cetra-finance/cetra-core-evm",
-    "url": "https://github.com/cetra-finance/cetra-core-evm"
+    "full_name": "codingJourneyFromUnemployment/LiquidityMarket",
+    "url": "https://github.com/codingJourneyFromUnemployment/LiquidityMarket"
   },
   {
-    "full_name": "AarenWang/uniswap-v3-research",
-    "url": "https://github.com/AarenWang/uniswap-v3-research"
+    "full_name": "ChmielewskiKamil/maia-audit",
+    "url": "https://github.com/ChmielewskiKamil/maia-audit"
   },
   {
-    "full_name": "MahaDAO/arth-strategies",
-    "url": "https://github.com/MahaDAO/arth-strategies"
+    "full_name": "Popsicle-Finance/PopsicleV3Optimizer",
+    "url": "https://github.com/Popsicle-Finance/PopsicleV3Optimizer"
   },
   {
-    "full_name": "DavidLeeChaum/USSDv2",
-    "url": "https://github.com/DavidLeeChaum/USSDv2"
+    "full_name": "marcgraczyk/recursive_llm_organization",
+    "url": "https://github.com/marcgraczyk/recursive_llm_organization"
   },
   {
-    "full_name": "PyCodeJunkie/Uniswap-Bot-Optimism-",
-    "url": "https://github.com/PyCodeJunkie/Uniswap-Bot-Optimism-"
+    "full_name": "versedpro/uniswap-mempool-sniper",
+    "url": "https://github.com/versedpro/uniswap-mempool-sniper"
   },
   {
-    "full_name": "hany-peak/uniswap-v3-sdk",
-    "url": "https://github.com/hany-peak/uniswap-v3-sdk"
+    "full_name": "Gobindapaull/solidity-basics-code",
+    "url": "https://github.com/Gobindapaull/solidity-basics-code"
   },
   {
-    "full_name": "PoCInnovation/arbitrage",
-    "url": "https://github.com/PoCInnovation/arbitrage"
+    "full_name": "bluentity/daobi",
+    "url": "https://github.com/bluentity/daobi"
   },
   {
-    "full_name": "anywai/udao-contracts",
-    "url": "https://github.com/anywai/udao-contracts"
+    "full_name": "ordex-io/ERC404Meme",
+    "url": "https://github.com/ordex-io/ERC404Meme"
   },
   {
-    "full_name": "tokenwood/Loanster",
-    "url": "https://github.com/tokenwood/Loanster"
+    "full_name": "thenextblock/defi-toolbox",
+    "url": "https://github.com/thenextblock/defi-toolbox"
   },
   {
-    "full_name": "etant/vwap_bot",
-    "url": "https://github.com/etant/vwap_bot"
+    "full_name": "Armand-Morin/simple_int-on-chain-storage",
+    "url": "https://github.com/Armand-Morin/simple_int-on-chain-storage"
   },
   {
-    "full_name": "karankurbur/WorldcoinContractsMonorepo",
-    "url": "https://github.com/karankurbur/WorldcoinContractsMonorepo"
+    "full_name": "maxmux-xyz/uniswap-quotes-proto",
+    "url": "https://github.com/maxmux-xyz/uniswap-quotes-proto"
   },
   {
     "full_name": "TFITZ57/Create_Liquidity_Marketplace",
     "url": "https://github.com/TFITZ57/Create_Liquidity_Marketplace"
   },
   {
-    "full_name": "NorVirae/mev-bot-cross-exchange",
-    "url": "https://github.com/NorVirae/mev-bot-cross-exchange"
+    "full_name": "XFantasy88/rcpswap-cross-chain",
+    "url": "https://github.com/XFantasy88/rcpswap-cross-chain"
   },
   {
-    "full_name": "Zubaid-AhmedZia/uniswapV3",
-    "url": "https://github.com/Zubaid-AhmedZia/uniswapV3"
+    "full_name": "dmihal/lido-uni-v3-pool",
+    "url": "https://github.com/dmihal/lido-uni-v3-pool"
   },
   {
     "full_name": "Mycelium-Lab/XStarter-Frontend",
     "url": "https://github.com/Mycelium-Lab/XStarter-Frontend"
   },
   {
+    "full_name": "faraasat/blockchain-ethereum-solana-rust-go",
+    "url": "https://github.com/faraasat/blockchain-ethereum-solana-rust-go"
+  },
+  {
+    "full_name": "emenella/DEX-scrapping",
+    "url": "https://github.com/emenella/DEX-scrapping"
+  },
+  {
+    "full_name": "anggxyz/uniswap-twap",
+    "url": "https://github.com/anggxyz/uniswap-twap"
+  },
+  {
+    "full_name": "PoCInnovation/arbitrage",
+    "url": "https://github.com/PoCInnovation/arbitrage"
+  },
+  {
     "full_name": "eq-lab/marginly",
     "url": "https://github.com/eq-lab/marginly"
   },
   {
+    "full_name": "ansonantony/defi-hackathon",
+    "url": "https://github.com/ansonantony/defi-hackathon"
+  },
+  {
+    "full_name": "MoonsDusts/rcpswap-cross-chain",
+    "url": "https://github.com/MoonsDusts/rcpswap-cross-chain"
+  },
+  {
     "full_name": "panditdhamdhere/uniswapV3",
     "url": "https://github.com/panditdhamdhere/uniswapV3"
+  },
+  {
+    "full_name": "DecenterApps/RateX",
+    "url": "https://github.com/DecenterApps/RateX"
+  },
+  {
+    "full_name": "awkwardalz/myuniswap",
+    "url": "https://github.com/awkwardalz/myuniswap"
   },
   {
     "full_name": "vicsnet/Euro3aDAO_BOT",
@@ -572,176 +592,152 @@
     "url": "https://github.com/gelatodigital/swap-orders-lib"
   },
   {
-    "full_name": "napalmpapalam/nft-settlement-use-case",
-    "url": "https://github.com/napalmpapalam/nft-settlement-use-case"
+    "full_name": "Blueberryfi/blueberry-core",
+    "url": "https://github.com/Blueberryfi/blueberry-core"
   },
   {
-    "full_name": "mayurbagga/ethindia-project",
-    "url": "https://github.com/mayurbagga/ethindia-project"
+    "full_name": "compound-finance/comet-migrator",
+    "url": "https://github.com/compound-finance/comet-migrator"
   },
   {
     "full_name": "zebra-xyz/universal-router",
     "url": "https://github.com/zebra-xyz/universal-router"
   },
   {
-    "full_name": "butterxyz/swap-contracts",
-    "url": "https://github.com/butterxyz/swap-contracts"
-  },
-  {
-    "full_name": "sector-fi/sector-contracts",
-    "url": "https://github.com/sector-fi/sector-contracts"
-  },
-  {
-    "full_name": "Tapioca-DAO/tapioca-sdk",
-    "url": "https://github.com/Tapioca-DAO/tapioca-sdk"
-  },
-  {
-    "full_name": "abubakar508/Zetachain-dApp",
-    "url": "https://github.com/abubakar508/Zetachain-dApp"
-  },
-  {
-    "full_name": "fun-xyz/funkit-core",
-    "url": "https://github.com/fun-xyz/funkit-core"
-  },
-  {
-    "full_name": "0x1stone/uni-api-tool",
-    "url": "https://github.com/0x1stone/uni-api-tool"
-  },
-  {
-    "full_name": "IndexCoop/liquidity-analyzer",
-    "url": "https://github.com/IndexCoop/liquidity-analyzer"
-  },
-  {
-    "full_name": "oneShot0430/Binance-sector_defi",
-    "url": "https://github.com/oneShot0430/Binance-sector_defi"
-  },
-  {
-    "full_name": "derion-io/create-comp",
-    "url": "https://github.com/derion-io/create-comp"
-  },
-  {
-    "full_name": "free-market/protocol",
-    "url": "https://github.com/free-market/protocol"
-  },
-  {
-    "full_name": "ArrakisFinance/v2-tutorials",
-    "url": "https://github.com/ArrakisFinance/v2-tutorials"
-  },
-  {
-    "full_name": "torah-fi/contracts",
-    "url": "https://github.com/torah-fi/contracts"
-  },
-  {
-    "full_name": "ZhangZhuoSJTU/Web3Bugs",
-    "url": "https://github.com/ZhangZhuoSJTU/Web3Bugs"
-  },
-  {
-    "full_name": "clarasoutu/hummingbot",
-    "url": "https://github.com/clarasoutu/hummingbot"
-  },
-  {
-    "full_name": "FraxFinance/frax-vefpis",
-    "url": "https://github.com/FraxFinance/frax-vefpis"
-  },
-  {
-    "full_name": "BlockApex/Audit-Projects",
-    "url": "https://github.com/BlockApex/Audit-Projects"
-  },
-  {
-    "full_name": "Verisana/UniswapV3-liquidity-rebalancer",
-    "url": "https://github.com/Verisana/UniswapV3-liquidity-rebalancer"
-  },
-  {
-    "full_name": "torah-fi/exchange",
-    "url": "https://github.com/torah-fi/exchange"
-  },
-  {
-    "full_name": "NFTX-project/nftx-universal-router",
-    "url": "https://github.com/NFTX-project/nftx-universal-router"
-  },
-  {
-    "full_name": "PercivalZhang/ContractHelper",
-    "url": "https://github.com/PercivalZhang/ContractHelper"
-  },
-  {
-    "full_name": "QuailtyDev/frax-solidity",
-    "url": "https://github.com/QuailtyDev/frax-solidity"
-  },
-  {
-    "full_name": "srcrep/hummer",
-    "url": "https://github.com/srcrep/hummer"
-  },
-  {
-    "full_name": "jellebuth/Jelle-V2.4.4",
-    "url": "https://github.com/jellebuth/Jelle-V2.4.4"
-  },
-  {
-    "full_name": "vanderheijden86/uniswap-explorer",
-    "url": "https://github.com/vanderheijden86/uniswap-explorer"
-  },
-  {
-    "full_name": "takeshi-su57/unlock",
-    "url": "https://github.com/takeshi-su57/unlock"
-  },
-  {
-    "full_name": "bobur1/PixelCanvasChronics",
-    "url": "https://github.com/bobur1/PixelCanvasChronics"
-  },
-  {
-    "full_name": "Digberi/promptdefi-web",
-    "url": "https://github.com/Digberi/promptdefi-web"
-  },
-  {
-    "full_name": "morpho-labs/morpho-liquidation-flash",
-    "url": "https://github.com/morpho-labs/morpho-liquidation-flash"
-  },
-  {
-    "full_name": "fluencelabs/dao",
-    "url": "https://github.com/fluencelabs/dao"
-  },
-  {
-    "full_name": "ArrakisFinance/v2-core",
-    "url": "https://github.com/ArrakisFinance/v2-core"
-  },
-  {
-    "full_name": "defiedge/defiedge-sdk",
-    "url": "https://github.com/defiedge/defiedge-sdk"
-  },
-  {
-    "full_name": "ohhkaneda/UI-to-manage-Uniswap-v3-pools-",
-    "url": "https://github.com/ohhkaneda/UI-to-manage-Uniswap-v3-pools-"
-  },
-  {
-    "full_name": "Naim-Bijapure/secret-feedback",
-    "url": "https://github.com/Naim-Bijapure/secret-feedback"
+    "full_name": "OxMarco/amm-market-making-bot",
+    "url": "https://github.com/OxMarco/amm-market-making-bot"
   },
   {
     "full_name": "RageTrade/core",
     "url": "https://github.com/RageTrade/core"
   },
   {
-    "full_name": "Full-stack-Web-Dev-BD/uniswap-universal-router",
-    "url": "https://github.com/Full-stack-Web-Dev-BD/uniswap-universal-router"
+    "full_name": "bobur1/admeal",
+    "url": "https://github.com/bobur1/admeal"
   },
   {
-    "full_name": "tivelprotocol/uniswap-v3-static-quoter",
-    "url": "https://github.com/tivelprotocol/uniswap-v3-static-quoter"
+    "full_name": "morpho-labs/morpho-liquidation-flash",
+    "url": "https://github.com/morpho-labs/morpho-liquidation-flash"
   },
   {
     "full_name": "rmourey26/onyx",
     "url": "https://github.com/rmourey26/onyx"
   },
   {
+    "full_name": "Tapioca-DAO/tap-token",
+    "url": "https://github.com/Tapioca-DAO/tap-token"
+  },
+  {
+    "full_name": "butterxyz/swap-contracts",
+    "url": "https://github.com/butterxyz/swap-contracts"
+  },
+  {
+    "full_name": "defiedge/defiedge-sdk",
+    "url": "https://github.com/defiedge/defiedge-sdk"
+  },
+  {
+    "full_name": "clarasoutu/hummingbot",
+    "url": "https://github.com/clarasoutu/hummingbot"
+  },
+  {
+    "full_name": "derion-io/create-comp",
+    "url": "https://github.com/derion-io/create-comp"
+  },
+  {
+    "full_name": "PercivalZhang/ContractHelper",
+    "url": "https://github.com/PercivalZhang/ContractHelper"
+  },
+  {
+    "full_name": "mason0510/suiAsContracts",
+    "url": "https://github.com/mason0510/suiAsContracts"
+  },
+  {
+    "full_name": "Full-stack-Web-Dev-BD/uniswap-universal-router",
+    "url": "https://github.com/Full-stack-Web-Dev-BD/uniswap-universal-router"
+  },
+  {
+    "full_name": "fun-xyz/funkit-core",
+    "url": "https://github.com/fun-xyz/funkit-core"
+  },
+  {
+    "full_name": "free-market/protocol",
+    "url": "https://github.com/free-market/protocol"
+  },
+  {
+    "full_name": "Naim-Bijapure/scaffold-eth-lukso-starter",
+    "url": "https://github.com/Naim-Bijapure/scaffold-eth-lukso-starter"
+  },
+  {
+    "full_name": "sector-fi/sector-contracts",
+    "url": "https://github.com/sector-fi/sector-contracts"
+  },
+  {
+    "full_name": "0xchamel/Blueberry-Core",
+    "url": "https://github.com/0xchamel/Blueberry-Core"
+  },
+  {
+    "full_name": "FraxFinance/frax-vefpis",
+    "url": "https://github.com/FraxFinance/frax-vefpis"
+  },
+  {
+    "full_name": "ArrakisFinance/v2-tutorials",
+    "url": "https://github.com/ArrakisFinance/v2-tutorials"
+  },
+  {
+    "full_name": "jellebuth/Jelle-V2.4.4",
+    "url": "https://github.com/jellebuth/Jelle-V2.4.4"
+  },
+  {
+    "full_name": "ArrakisFinance/v2-core",
+    "url": "https://github.com/ArrakisFinance/v2-core"
+  },
+  {
+    "full_name": "QuailtyDev/frax-solidity",
+    "url": "https://github.com/QuailtyDev/frax-solidity"
+  },
+  {
+    "full_name": "ekmanss/vyper_intro",
+    "url": "https://github.com/ekmanss/vyper_intro"
+  },
+  {
+    "full_name": "napalmpapalam/nft-settlement-use-case",
+    "url": "https://github.com/napalmpapalam/nft-settlement-use-case"
+  },
+  {
+    "full_name": "srcrep/hummer",
+    "url": "https://github.com/srcrep/hummer"
+  },
+  {
+    "full_name": "MahaTrade/hummingbot-coindcx",
+    "url": "https://github.com/MahaTrade/hummingbot-coindcx"
+  },
+  {
+    "full_name": "bitqiu/uniswap-sdks",
+    "url": "https://github.com/bitqiu/uniswap-sdks"
+  },
+  {
+    "full_name": "IndexCoop/liquidity-analyzer",
+    "url": "https://github.com/IndexCoop/liquidity-analyzer"
+  },
+  {
+    "full_name": "abubakar508/Zetachain-dApp",
+    "url": "https://github.com/abubakar508/Zetachain-dApp"
+  },
+  {
+    "full_name": "vanderheijden86/uniswap-explorer",
+    "url": "https://github.com/vanderheijden86/uniswap-explorer"
+  },
+  {
+    "full_name": "Aniket6990/swapper",
+    "url": "https://github.com/Aniket6990/swapper"
+  },
+  {
+    "full_name": "Digberi/promptdefi-web",
+    "url": "https://github.com/Digberi/promptdefi-web"
+  },
+  {
     "full_name": "ldvar/pd",
     "url": "https://github.com/ldvar/pd"
-  },
-  {
-    "full_name": "AngleProtocol/uniswap-migrator",
-    "url": "https://github.com/AngleProtocol/uniswap-migrator"
-  },
-  {
-    "full_name": "redsky500/thunderPokt_Final",
-    "url": "https://github.com/redsky500/thunderPokt_Final"
   },
   {
     "full_name": "Naim-Bijapure/debug-eth-contract",
@@ -752,44 +748,84 @@
     "url": "https://github.com/DappGuy/ai"
   },
   {
-    "full_name": "Blueberryfi/blueberry-core",
-    "url": "https://github.com/Blueberryfi/blueberry-core"
+    "full_name": "Naim-Bijapure/D-Chat",
+    "url": "https://github.com/Naim-Bijapure/D-Chat"
   },
   {
     "full_name": "RageTrade/sdk",
     "url": "https://github.com/RageTrade/sdk"
   },
   {
-    "full_name": "Aniket6990/swapper",
-    "url": "https://github.com/Aniket6990/swapper"
+    "full_name": "GraphLinq/GraphLinq.HubInterface",
+    "url": "https://github.com/GraphLinq/GraphLinq.HubInterface"
   },
   {
-    "full_name": "LizanLycan/earth3",
-    "url": "https://github.com/LizanLycan/earth3"
+    "full_name": "mayurbagga/ethindia-project",
+    "url": "https://github.com/mayurbagga/ethindia-project"
   },
   {
     "full_name": "Naim-Bijapure/scaffold-eth-next",
     "url": "https://github.com/Naim-Bijapure/scaffold-eth-next"
   },
   {
-    "full_name": "GraphLinq/GraphLinq.HubInterface",
-    "url": "https://github.com/GraphLinq/GraphLinq.HubInterface"
+    "full_name": "Naim-Bijapure/feedback-loop",
+    "url": "https://github.com/Naim-Bijapure/feedback-loop"
   },
   {
-    "full_name": "Web3-Agent/scroll-web3Agent",
-    "url": "https://github.com/Web3-Agent/scroll-web3Agent"
+    "full_name": "hyperfantom/swap-orders-lib",
+    "url": "https://github.com/hyperfantom/swap-orders-lib"
   },
   {
-    "full_name": "0xchamel/Blueberry-Core",
-    "url": "https://github.com/0xchamel/Blueberry-Core"
+    "full_name": "ZhangZhuoSJTU/Web3Bugs",
+    "url": "https://github.com/ZhangZhuoSJTU/Web3Bugs"
   },
   {
-    "full_name": "bitqiu/uniswap-sdks",
-    "url": "https://github.com/bitqiu/uniswap-sdks"
+    "full_name": "abstract-org/contracts",
+    "url": "https://github.com/abstract-org/contracts"
   },
   {
-    "full_name": "Cvg-Finance/hats-audit",
-    "url": "https://github.com/Cvg-Finance/hats-audit"
+    "full_name": "BlockApex/Audit-Projects",
+    "url": "https://github.com/BlockApex/Audit-Projects"
+  },
+  {
+    "full_name": "derekbar90/hardhat-boilerplate-typescript",
+    "url": "https://github.com/derekbar90/hardhat-boilerplate-typescript"
+  },
+  {
+    "full_name": "takeshi-su57/unlock",
+    "url": "https://github.com/takeshi-su57/unlock"
+  },
+  {
+    "full_name": "mangrovedao/mangrove-bots",
+    "url": "https://github.com/mangrovedao/mangrove-bots"
+  },
+  {
+    "full_name": "ArrakisFinance/v2-manager-templates",
+    "url": "https://github.com/ArrakisFinance/v2-manager-templates"
+  },
+  {
+    "full_name": "Verisana/UniswapV3-liquidity-rebalancer",
+    "url": "https://github.com/Verisana/UniswapV3-liquidity-rebalancer"
+  },
+  {
+    "full_name": "redsky500/thunderPokt_Final",
+    "url": "https://github.com/redsky500/thunderPokt_Final"
+  },
+  {
+    "full_name": "tivelprotocol/uniswap-v3-static-quoter",
+    "url": "https://github.com/tivelprotocol/uniswap-v3-static-quoter"
+  },
+  {
+    "full_name": "0x1stone/uni-api-tool",
+    "url": "https://github.com/0x1stone/uni-api-tool"
+  },
+  {
+    "full_name": "usgeeus/universal-router-test",
+    "url": "https://github.com/usgeeus/universal-router-test"
+  },
+  {
+    "full_name": "Tapioca-DAO/tapioca-sdk",
+    "url": "https://github.com/Tapioca-DAO/tapioca-sdk"
   },
   {
     "full_name": "meTokens/meTokens-erc20",
@@ -800,104 +836,92 @@
     "url": "https://github.com/gelatodigital/uni-v3-range-orders"
   },
   {
-    "full_name": "sidra-dex/v3-sdk",
-    "url": "https://github.com/sidra-dex/v3-sdk"
+    "full_name": "gelatodigital/range-orders-lib",
+    "url": "https://github.com/gelatodigital/range-orders-lib"
   },
   {
-    "full_name": "rmourey26/onyqs",
-    "url": "https://github.com/rmourey26/onyqs"
+    "full_name": "ckoopmann/liquidity-analyzer",
+    "url": "https://github.com/ckoopmann/liquidity-analyzer"
   },
   {
-    "full_name": "abstract-org/contracts",
-    "url": "https://github.com/abstract-org/contracts"
+    "full_name": "Cvg-Finance/hats-audit",
+    "url": "https://github.com/Cvg-Finance/hats-audit"
   },
   {
-    "full_name": "bobur1/admeal",
-    "url": "https://github.com/bobur1/admeal"
+    "full_name": "oneShot0430/Binance-sector_defi",
+    "url": "https://github.com/oneShot0430/Binance-sector_defi"
+  },
+  {
+    "full_name": "fluencelabs/dao",
+    "url": "https://github.com/fluencelabs/dao"
   },
   {
     "full_name": "maceip/btc-multistake",
     "url": "https://github.com/maceip/btc-multistake"
   },
   {
-    "full_name": "ekmanss/vyper_intro",
-    "url": "https://github.com/ekmanss/vyper_intro"
+    "full_name": "ohhkaneda/UI-to-manage-Uniswap-v3-pools-",
+    "url": "https://github.com/ohhkaneda/UI-to-manage-Uniswap-v3-pools-"
   },
   {
-    "full_name": "compound-finance/comet-migrator",
-    "url": "https://github.com/compound-finance/comet-migrator"
+    "full_name": "Web3-Agent/scroll-web3Agent",
+    "url": "https://github.com/Web3-Agent/scroll-web3Agent"
   },
   {
-    "full_name": "Naim-Bijapure/D-Chat",
-    "url": "https://github.com/Naim-Bijapure/D-Chat"
-  },
-  {
-    "full_name": "router-protocol/router-intents-eoa-adapters",
-    "url": "https://github.com/router-protocol/router-intents-eoa-adapters"
-  },
-  {
-    "full_name": "ArrakisFinance/v2-manager-templates",
-    "url": "https://github.com/ArrakisFinance/v2-manager-templates"
-  },
-  {
-    "full_name": "MahaTrade/hummingbot-coindcx",
-    "url": "https://github.com/MahaTrade/hummingbot-coindcx"
-  },
-  {
-    "full_name": "gfx-labs/ip-contracts",
-    "url": "https://github.com/gfx-labs/ip-contracts"
-  },
-  {
-    "full_name": "Tapioca-DAO/tapioca-periph",
-    "url": "https://github.com/Tapioca-DAO/tapioca-periph"
-  },
-  {
-    "full_name": "mason0510/suiAsContracts",
-    "url": "https://github.com/mason0510/suiAsContracts"
-  },
-  {
-    "full_name": "gelatodigital/range-orders-lib",
-    "url": "https://github.com/gelatodigital/range-orders-lib"
-  },
-  {
-    "full_name": "jwrookie/stablecoin",
-    "url": "https://github.com/jwrookie/stablecoin"
-  },
-  {
-    "full_name": "derekbar90/hardhat-boilerplate-typescript",
-    "url": "https://github.com/derekbar90/hardhat-boilerplate-typescript"
-  },
-  {
-    "full_name": "mangrovedao/mangrove-bots",
-    "url": "https://github.com/mangrovedao/mangrove-bots"
+    "full_name": "torah-fi/exchange",
+    "url": "https://github.com/torah-fi/exchange"
   },
   {
     "full_name": "arguiot/arbitrage-bot",
     "url": "https://github.com/arguiot/arbitrage-bot"
   },
   {
+    "full_name": "jwrookie/stablecoin",
+    "url": "https://github.com/jwrookie/stablecoin"
+  },
+  {
     "full_name": "redstone-finance/komodo-celo",
     "url": "https://github.com/redstone-finance/komodo-celo"
+  },
+  {
+    "full_name": "bobur1/PixelCanvasChronics",
+    "url": "https://github.com/bobur1/PixelCanvasChronics"
+  },
+  {
+    "full_name": "gaurav-11018/SuperFi",
+    "url": "https://github.com/gaurav-11018/SuperFi"
+  },
+  {
+    "full_name": "Tapioca-DAO/tapioca-periph",
+    "url": "https://github.com/Tapioca-DAO/tapioca-periph"
+  },
+  {
+    "full_name": "router-protocol/router-intents-eoa-adapters",
+    "url": "https://github.com/router-protocol/router-intents-eoa-adapters"
   },
   {
     "full_name": "Miljan9602/universal-router",
     "url": "https://github.com/Miljan9602/universal-router"
   },
   {
-    "full_name": "Naim-Bijapure/feedback-loop",
-    "url": "https://github.com/Naim-Bijapure/feedback-loop"
+    "full_name": "usgeeus/Usgeeus-Universal-Router",
+    "url": "https://github.com/usgeeus/Usgeeus-Universal-Router"
   },
   {
-    "full_name": "Naim-Bijapure/scaffold-eth-lukso-starter",
-    "url": "https://github.com/Naim-Bijapure/scaffold-eth-lukso-starter"
+    "full_name": "AngleProtocol/uniswap-migrator",
+    "url": "https://github.com/AngleProtocol/uniswap-migrator"
   },
   {
-    "full_name": "Tapioca-DAO/tap-token",
-    "url": "https://github.com/Tapioca-DAO/tap-token"
+    "full_name": "gfx-labs/ip-contracts",
+    "url": "https://github.com/gfx-labs/ip-contracts"
   },
   {
-    "full_name": "hyperfantom/swap-orders-lib",
-    "url": "https://github.com/hyperfantom/swap-orders-lib"
+    "full_name": "sidra-dex/v3-sdk",
+    "url": "https://github.com/sidra-dex/v3-sdk"
+  },
+  {
+    "full_name": "LizanLycan/earth3",
+    "url": "https://github.com/LizanLycan/earth3"
   },
   {
     "full_name": "0xasimraza/unipilot-protocol-contract-v2",
@@ -916,6 +940,18 @@
     "url": "https://github.com/Universal-Swaps/protocol-contracts"
   },
   {
+    "full_name": "mason0510/suiAsAwe",
+    "url": "https://github.com/mason0510/suiAsAwe"
+  },
+  {
+    "full_name": "mason0510/sui-As-Awe",
+    "url": "https://github.com/mason0510/sui-As-Awe"
+  },
+  {
+    "full_name": "adam-eques/humminbot-dexfin",
+    "url": "https://github.com/adam-eques/humminbot-dexfin"
+  },
+  {
     "full_name": "AgosVenezia/Campus-StackUp",
     "url": "https://github.com/AgosVenezia/Campus-StackUp"
   },
@@ -928,20 +964,12 @@
     "url": "https://github.com/ArchTaqi/SupplementaryMaterial"
   },
   {
-    "full_name": "adam-eques/humminbot-dexfin",
-    "url": "https://github.com/adam-eques/humminbot-dexfin"
+    "full_name": "columbia/SmartInv",
+    "url": "https://github.com/columbia/SmartInv"
   },
   {
     "full_name": "stevekeol/Templates",
     "url": "https://github.com/stevekeol/Templates"
-  },
-  {
-    "full_name": "mason0510/sui-As-Awe",
-    "url": "https://github.com/mason0510/sui-As-Awe"
-  },
-  {
-    "full_name": "mason0510/suiAsAwe",
-    "url": "https://github.com/mason0510/suiAsAwe"
   },
   {
     "full_name": "Rayane-45/bot--arbitrage",
@@ -952,20 +980,16 @@
     "url": "https://github.com/clementroure/Arbitrage-Bot"
   },
   {
-    "full_name": "usgeeus/universal-router-test",
-    "url": "https://github.com/usgeeus/universal-router-test"
+    "full_name": "NFTX-project/nftx-universal-router",
+    "url": "https://github.com/NFTX-project/nftx-universal-router"
   },
   {
-    "full_name": "gaurav-11018/SuperFi",
-    "url": "https://github.com/gaurav-11018/SuperFi"
+    "full_name": "torah-fi/contracts",
+    "url": "https://github.com/torah-fi/contracts"
   },
   {
-    "full_name": "ckoopmann/liquidity-analyzer",
-    "url": "https://github.com/ckoopmann/liquidity-analyzer"
-  },
-  {
-    "full_name": "usgeeus/Usgeeus-Universal-Router",
-    "url": "https://github.com/usgeeus/Usgeeus-Universal-Router"
+    "full_name": "Naim-Bijapure/secret-feedback",
+    "url": "https://github.com/Naim-Bijapure/secret-feedback"
   },
   {
     "full_name": "bobanetwork/boba_legacy",
@@ -1060,8 +1084,8 @@
     "url": "https://github.com/Sangdana/optimist-collection"
   },
   {
-    "full_name": "OxMarco/amm-market-making-bot",
-    "url": "https://github.com/OxMarco/amm-market-making-bot"
+    "full_name": "rmourey26/onyqs",
+    "url": "https://github.com/rmourey26/onyqs"
   },
   {
     "full_name": "mantlenetworkio/mantle",
@@ -1300,6 +1324,10 @@
     "url": "https://github.com/jacksmies/EWBridge"
   },
   {
+    "full_name": "alvweb3/canto-hck-idx-sc",
+    "url": "https://github.com/alvweb3/canto-hck-idx-sc"
+  },
+  {
     "full_name": "bitxx/uniswap-v3",
     "url": "https://github.com/bitxx/uniswap-v3"
   },
@@ -1332,314 +1360,6 @@
     "url": "https://github.com/blockydevs/bdmh-cross-chain-governance"
   },
   {
-    "full_name": "code-bajju/Web3-Exchange",
-    "url": "https://github.com/code-bajju/Web3-Exchange"
-  },
-  {
-    "full_name": "Motzart/mobile-coin-front",
-    "url": "https://github.com/Motzart/mobile-coin-front"
-  },
-  {
-    "full_name": "samisbakedham/interface",
-    "url": "https://github.com/samisbakedham/interface"
-  },
-  {
-    "full_name": "AgaTechSystems/UniReverseForkz",
-    "url": "https://github.com/AgaTechSystems/UniReverseForkz"
-  },
-  {
-    "full_name": "SuperSmile0109/ArecaDex",
-    "url": "https://github.com/SuperSmile0109/ArecaDex"
-  },
-  {
-    "full_name": "silverspoon19931120/brc20-launchpad",
-    "url": "https://github.com/silverspoon19931120/brc20-launchpad"
-  },
-  {
-    "full_name": "must479/imtokenuni",
-    "url": "https://github.com/must479/imtokenuni"
-  },
-  {
-    "full_name": "SNBTechnologies/swap-interface",
-    "url": "https://github.com/SNBTechnologies/swap-interface"
-  },
-  {
-    "full_name": "etherlinkcom/uniswap-interface",
-    "url": "https://github.com/etherlinkcom/uniswap-interface"
-  },
-  {
-    "full_name": "kingport/uni-swap-wallt-v2",
-    "url": "https://github.com/kingport/uni-swap-wallt-v2"
-  },
-  {
-    "full_name": "GasBot-xyz/demos",
-    "url": "https://github.com/GasBot-xyz/demos"
-  },
-  {
-    "full_name": "CascadiaTech/Cascadia",
-    "url": "https://github.com/CascadiaTech/Cascadia"
-  },
-  {
-    "full_name": "revolution35/UniUI",
-    "url": "https://github.com/revolution35/UniUI"
-  },
-  {
-    "full_name": "passerByBo/code-2024",
-    "url": "https://github.com/passerByBo/code-2024"
-  },
-  {
-    "full_name": "PearBlockchain/pearswap",
-    "url": "https://github.com/PearBlockchain/pearswap"
-  },
-  {
-    "full_name": "duythaong/keyring-swap",
-    "url": "https://github.com/duythaong/keyring-swap"
-  },
-  {
-    "full_name": "cool21th/test-defi",
-    "url": "https://github.com/cool21th/test-defi"
-  },
-  {
-    "full_name": "engram-network/engram-interface",
-    "url": "https://github.com/engram-network/engram-interface"
-  },
-  {
-    "full_name": "casweeney/Uniswap-ALL-IN-ONE",
-    "url": "https://github.com/casweeney/Uniswap-ALL-IN-ONE"
-  },
-  {
-    "full_name": "MiguelBits/cowswap-develop",
-    "url": "https://github.com/MiguelBits/cowswap-develop"
-  },
-  {
-    "full_name": "glide-finance/glide-widget",
-    "url": "https://github.com/glide-finance/glide-widget"
-  },
-  {
-    "full_name": "Rome-Blockchain-Labs/terminal-widgets",
-    "url": "https://github.com/Rome-Blockchain-Labs/terminal-widgets"
-  },
-  {
-    "full_name": "Tenderly/uniswap-playground-mode",
-    "url": "https://github.com/Tenderly/uniswap-playground-mode"
-  },
-  {
-    "full_name": "xdefidev/uniswap-clone",
-    "url": "https://github.com/xdefidev/uniswap-clone"
-  },
-  {
-    "full_name": "TheKibaInu/kibaswap_alpha",
-    "url": "https://github.com/TheKibaInu/kibaswap_alpha"
-  },
-  {
-    "full_name": "timetaxy/contracts",
-    "url": "https://github.com/timetaxy/contracts"
-  },
-  {
-    "full_name": "Danijel-Enoch/uniswap-fork",
-    "url": "https://github.com/Danijel-Enoch/uniswap-fork"
-  },
-  {
-    "full_name": "1delta-DAO/frontend-cx",
-    "url": "https://github.com/1delta-DAO/frontend-cx"
-  },
-  {
-    "full_name": "danilo0917/uniswap_v3",
-    "url": "https://github.com/danilo0917/uniswap_v3"
-  },
-  {
-    "full_name": "hermes1108/synthetix-staking-frontend",
-    "url": "https://github.com/hermes1108/synthetix-staking-frontend"
-  },
-  {
-    "full_name": "Emerie111/uniswap_pushProtocol",
-    "url": "https://github.com/Emerie111/uniswap_pushProtocol"
-  },
-  {
-    "full_name": "anxolin/cowswap",
-    "url": "https://github.com/anxolin/cowswap"
-  },
-  {
-    "full_name": "twofutureworld/GtpsFinance",
-    "url": "https://github.com/twofutureworld/GtpsFinance"
-  },
-  {
-    "full_name": "Nexis-Network/Nexis-Swap",
-    "url": "https://github.com/Nexis-Network/Nexis-Swap"
-  },
-  {
-    "full_name": "shadyassan/uniswap-interface",
-    "url": "https://github.com/shadyassan/uniswap-interface"
-  },
-  {
-    "full_name": "guil-lambert/yewbow-interface",
-    "url": "https://github.com/guil-lambert/yewbow-interface"
-  },
-  {
-    "full_name": "nikola43/mevSwap",
-    "url": "https://github.com/nikola43/mevSwap"
-  },
-  {
-    "full_name": "goblockchain/tdrex",
-    "url": "https://github.com/goblockchain/tdrex"
-  },
-  {
-    "full_name": "waterfall-network/uniswap-ui",
-    "url": "https://github.com/waterfall-network/uniswap-ui"
-  },
-  {
-    "full_name": "dongjinjeon/uniswap-interface",
-    "url": "https://github.com/dongjinjeon/uniswap-interface"
-  },
-  {
-    "full_name": "SwaprHQ/cowswapr",
-    "url": "https://github.com/SwaprHQ/cowswapr"
-  },
-  {
-    "full_name": "cmgoes/pulsedoge-launchpad",
-    "url": "https://github.com/cmgoes/pulsedoge-launchpad"
-  },
-  {
-    "full_name": "Synergy-Labs/synergy-widget",
-    "url": "https://github.com/Synergy-Labs/synergy-widget"
-  },
-  {
-    "full_name": "lubhub612/uniswap-clone",
-    "url": "https://github.com/lubhub612/uniswap-clone"
-  },
-  {
-    "full_name": "mason0510/solidity_attack_awe",
-    "url": "https://github.com/mason0510/solidity_attack_awe"
-  },
-  {
-    "full_name": "GtpsFinance/gtpsfinance-dex-interface",
-    "url": "https://github.com/GtpsFinance/gtpsfinance-dex-interface"
-  },
-  {
-    "full_name": "neha-decrypt/zkflow",
-    "url": "https://github.com/neha-decrypt/zkflow"
-  },
-  {
-    "full_name": "PLSFusion/uniswap-interface",
-    "url": "https://github.com/PLSFusion/uniswap-interface"
-  },
-  {
-    "full_name": "Omelette-Swap/omeletteswap-frontend",
-    "url": "https://github.com/Omelette-Swap/omeletteswap-frontend"
-  },
-  {
-    "full_name": "jinxer16/daot",
-    "url": "https://github.com/jinxer16/daot"
-  },
-  {
-    "full_name": "batiknetwork/frontend",
-    "url": "https://github.com/batiknetwork/frontend"
-  },
-  {
-    "full_name": "mellow-finance/mellow-vaults",
-    "url": "https://github.com/mellow-finance/mellow-vaults"
-  },
-  {
-    "full_name": "Strike1031/AvaxMev",
-    "url": "https://github.com/Strike1031/AvaxMev"
-  },
-  {
-    "full_name": "Magma-Layer/interface",
-    "url": "https://github.com/Magma-Layer/interface"
-  },
-  {
-    "full_name": "Dhruv-2003/UniswapXPush",
-    "url": "https://github.com/Dhruv-2003/UniswapXPush"
-  },
-  {
-    "full_name": "AdwindOne/uniswap",
-    "url": "https://github.com/AdwindOne/uniswap"
-  },
-  {
-    "full_name": "unbanksytv/push-uniswap-frontend-sdk-demo",
-    "url": "https://github.com/unbanksytv/push-uniswap-frontend-sdk-demo"
-  },
-  {
-    "full_name": "Pawswap-Dex/Pawswap",
-    "url": "https://github.com/Pawswap-Dex/Pawswap"
-  },
-  {
-    "full_name": "domwoe/uniswap_ui_on_ic",
-    "url": "https://github.com/domwoe/uniswap_ui_on_ic"
-  },
-  {
-    "full_name": "3lLobo/LachesisDEX",
-    "url": "https://github.com/3lLobo/LachesisDEX"
-  },
-  {
-    "full_name": "lomads/lomads-interface",
-    "url": "https://github.com/lomads/lomads-interface"
-  },
-  {
-    "full_name": "xwhiz/E8C_Uniswap_fork",
-    "url": "https://github.com/xwhiz/E8C_Uniswap_fork"
-  },
-  {
-    "full_name": "incognitochain/incognito-web-base",
-    "url": "https://github.com/incognitochain/incognito-web-base"
-  },
-  {
-    "full_name": "GtpsFinance/NEWAGEGTPS",
-    "url": "https://github.com/GtpsFinance/NEWAGEGTPS"
-  },
-  {
-    "full_name": "must479/notipikasi",
-    "url": "https://github.com/must479/notipikasi"
-  },
-  {
-    "full_name": "hakeemullahjan/push-protocol-integration-into-uniswap-interface",
-    "url": "https://github.com/hakeemullahjan/push-protocol-integration-into-uniswap-interface"
-  },
-  {
-    "full_name": "platypus-project/web-client",
-    "url": "https://github.com/platypus-project/web-client"
-  },
-  {
-    "full_name": "seafarer111/uniswap_shibion",
-    "url": "https://github.com/seafarer111/uniswap_shibion"
-  },
-  {
-    "full_name": "baldfinance/frontend",
-    "url": "https://github.com/baldfinance/frontend"
-  },
-  {
-    "full_name": "AtosGuru/1Base",
-    "url": "https://github.com/AtosGuru/1Base"
-  },
-  {
-    "full_name": "fundDeveloper22/interface",
-    "url": "https://github.com/fundDeveloper22/interface"
-  },
-  {
-    "full_name": "humanprotocol/governance",
-    "url": "https://github.com/humanprotocol/governance"
-  },
-  {
-    "full_name": "1999321/Uniswap-web",
-    "url": "https://github.com/1999321/Uniswap-web"
-  },
-  {
-    "full_name": "GtpsFinance/main-gtps.finance",
-    "url": "https://github.com/GtpsFinance/main-gtps.finance"
-  },
-  {
-    "full_name": "usman724/UniswapInterface_Ava",
-    "url": "https://github.com/usman724/UniswapInterface_Ava"
-  },
-  {
-    "full_name": "donex-finance/donex-interface",
-    "url": "https://github.com/donex-finance/donex-interface"
-  },
-  {
-    "full_name": "shahzeb8285/interface",
-    "url": "https://github.com/shahzeb8285/interface"
-  },
-  {
     "full_name": "samisbakedham/uniswap",
     "url": "https://github.com/samisbakedham/uniswap"
   },
@@ -1648,56 +1368,372 @@
     "url": "https://github.com/openos-labs/imart-toolkit"
   },
   {
-    "full_name": "goblockchain/sasi",
-    "url": "https://github.com/goblockchain/sasi"
+    "full_name": "Rome-Blockchain-Labs/terminal-widgets",
+    "url": "https://github.com/Rome-Blockchain-Labs/terminal-widgets"
   },
   {
-    "full_name": "0xdegencapital/UniswapV3",
-    "url": "https://github.com/0xdegencapital/UniswapV3"
+    "full_name": "mellow-finance/mellow-vaults",
+    "url": "https://github.com/mellow-finance/mellow-vaults"
+  },
+  {
+    "full_name": "Danijel-Enoch/uniswap-fork",
+    "url": "https://github.com/Danijel-Enoch/uniswap-fork"
+  },
+  {
+    "full_name": "SwaprHQ/cowswapr",
+    "url": "https://github.com/SwaprHQ/cowswapr"
+  },
+  {
+    "full_name": "CascadiaTech/Cascadia",
+    "url": "https://github.com/CascadiaTech/Cascadia"
+  },
+  {
+    "full_name": "nikola43/mevSwap",
+    "url": "https://github.com/nikola43/mevSwap"
   },
   {
     "full_name": "liuguodong24-8/www",
     "url": "https://github.com/liuguodong24-8/www"
   },
   {
-    "full_name": "noorshanu/mika-swap",
-    "url": "https://github.com/noorshanu/mika-swap"
+    "full_name": "platypus-project/web-client",
+    "url": "https://github.com/platypus-project/web-client"
   },
   {
-    "full_name": "darrylyeo/blockhead",
-    "url": "https://github.com/darrylyeo/blockhead"
+    "full_name": "silverspoon19931120/brc20-launchpad",
+    "url": "https://github.com/silverspoon19931120/brc20-launchpad"
   },
   {
-    "full_name": "buildoorxyz/Uniswap-Demo",
-    "url": "https://github.com/buildoorxyz/Uniswap-Demo"
+    "full_name": "Omelette-Swap/omeletteswap-frontend",
+    "url": "https://github.com/Omelette-Swap/omeletteswap-frontend"
   },
   {
-    "full_name": "AmbireTech/uniswap-ambire-sdk-demo",
-    "url": "https://github.com/AmbireTech/uniswap-ambire-sdk-demo"
+    "full_name": "domwoe/uniswap_ui_on_ic",
+    "url": "https://github.com/domwoe/uniswap_ui_on_ic"
+  },
+  {
+    "full_name": "timetaxy/contracts",
+    "url": "https://github.com/timetaxy/contracts"
+  },
+  {
+    "full_name": "waterfall-network/uniswap-ui",
+    "url": "https://github.com/waterfall-network/uniswap-ui"
+  },
+  {
+    "full_name": "lubhub612/uniswap-clone",
+    "url": "https://github.com/lubhub612/uniswap-clone"
+  },
+  {
+    "full_name": "SuperSmile0109/ArecaDex",
+    "url": "https://github.com/SuperSmile0109/ArecaDex"
+  },
+  {
+    "full_name": "0xdegencapital/UniswapV3",
+    "url": "https://github.com/0xdegencapital/UniswapV3"
+  },
+  {
+    "full_name": "3lLobo/LachesisDEX",
+    "url": "https://github.com/3lLobo/LachesisDEX"
   },
   {
     "full_name": "DaniyalManzoor/uniswap-arbitrum-goerli",
     "url": "https://github.com/DaniyalManzoor/uniswap-arbitrum-goerli"
   },
   {
-    "full_name": "rpatterson9/uniswap-interface",
-    "url": "https://github.com/rpatterson9/uniswap-interface"
-  },
-  {
     "full_name": "unbanksytv/interface-main-3",
     "url": "https://github.com/unbanksytv/interface-main-3"
   },
   {
+    "full_name": "must479/notipikasi",
+    "url": "https://github.com/must479/notipikasi"
+  },
+  {
+    "full_name": "etherpan/uniswap-v2",
+    "url": "https://github.com/etherpan/uniswap-v2"
+  },
+  {
+    "full_name": "batiknetwork/frontend",
+    "url": "https://github.com/batiknetwork/frontend"
+  },
+  {
+    "full_name": "rpatterson9/uniswap-interface",
+    "url": "https://github.com/rpatterson9/uniswap-interface"
+  },
+  {
+    "full_name": "must479/imtokenuni",
+    "url": "https://github.com/must479/imtokenuni"
+  },
+  {
+    "full_name": "incognitochain/incognito-web-base",
+    "url": "https://github.com/incognitochain/incognito-web-base"
+  },
+  {
+    "full_name": "Emerie111/uniswap_pushProtocol",
+    "url": "https://github.com/Emerie111/uniswap_pushProtocol"
+  },
+  {
+    "full_name": "SNBTechnologies/swap-interface",
+    "url": "https://github.com/SNBTechnologies/swap-interface"
+  },
+  {
+    "full_name": "neha-decrypt/zkflow",
+    "url": "https://github.com/neha-decrypt/zkflow"
+  },
+  {
+    "full_name": "noorshanu/mika-swap",
+    "url": "https://github.com/noorshanu/mika-swap"
+  },
+  {
+    "full_name": "PearBlockchain/pearswap",
+    "url": "https://github.com/PearBlockchain/pearswap"
+  },
+  {
+    "full_name": "MiguelBits/cowswap-develop",
+    "url": "https://github.com/MiguelBits/cowswap-develop"
+  },
+  {
+    "full_name": "GasBot-xyz/demos",
+    "url": "https://github.com/GasBot-xyz/demos"
+  },
+  {
+    "full_name": "cool21th/test-defi",
+    "url": "https://github.com/cool21th/test-defi"
+  },
+  {
+    "full_name": "lomads/lomads-interface",
+    "url": "https://github.com/lomads/lomads-interface"
+  },
+  {
+    "full_name": "code-bajju/Web3-Exchange",
+    "url": "https://github.com/code-bajju/Web3-Exchange"
+  },
+  {
+    "full_name": "anxolin/cowswap",
+    "url": "https://github.com/anxolin/cowswap"
+  },
+  {
+    "full_name": "goblockchain/tdrex",
+    "url": "https://github.com/goblockchain/tdrex"
+  },
+  {
+    "full_name": "Synergy-Labs/synergy-widget",
+    "url": "https://github.com/Synergy-Labs/synergy-widget"
+  },
+  {
+    "full_name": "twofutureworld/GtpsFinance",
+    "url": "https://github.com/twofutureworld/GtpsFinance"
+  },
+  {
+    "full_name": "passerByBo/code-2024",
+    "url": "https://github.com/passerByBo/code-2024"
+  },
+  {
+    "full_name": "casweeney/Uniswap-ALL-IN-ONE",
+    "url": "https://github.com/casweeney/Uniswap-ALL-IN-ONE"
+  },
+  {
+    "full_name": "Motzart/mobile-coin-front",
+    "url": "https://github.com/Motzart/mobile-coin-front"
+  },
+  {
+    "full_name": "AmbireTech/uniswap-ambire-sdk-demo",
+    "url": "https://github.com/AmbireTech/uniswap-ambire-sdk-demo"
+  },
+  {
+    "full_name": "cmgoes/pulsedoge-launchpad",
+    "url": "https://github.com/cmgoes/pulsedoge-launchpad"
+  },
+  {
+    "full_name": "GtpsFinance/main-gtps.finance",
+    "url": "https://github.com/GtpsFinance/main-gtps.finance"
+  },
+  {
+    "full_name": "AgaTechSystems/UniReverseForkz",
+    "url": "https://github.com/AgaTechSystems/UniReverseForkz"
+  },
+  {
+    "full_name": "engram-network/engram-interface",
+    "url": "https://github.com/engram-network/engram-interface"
+  },
+  {
+    "full_name": "Pawswap-Dex/Pawswap",
+    "url": "https://github.com/Pawswap-Dex/Pawswap"
+  },
+  {
+    "full_name": "Strike1031/AvaxMev",
+    "url": "https://github.com/Strike1031/AvaxMev"
+  },
+  {
+    "full_name": "Tenderly/uniswap-playground-mode",
+    "url": "https://github.com/Tenderly/uniswap-playground-mode"
+  },
+  {
+    "full_name": "shahzeb8285/interface",
+    "url": "https://github.com/shahzeb8285/interface"
+  },
+  {
+    "full_name": "TheKibaInu/kibaswap_alpha",
+    "url": "https://github.com/TheKibaInu/kibaswap_alpha"
+  },
+  {
+    "full_name": "kingport/uni-swap-wallt-v2",
+    "url": "https://github.com/kingport/uni-swap-wallt-v2"
+  },
+  {
+    "full_name": "buildoorxyz/Uniswap-Demo",
+    "url": "https://github.com/buildoorxyz/Uniswap-Demo"
+  },
+  {
+    "full_name": "revolution35/UniUI",
+    "url": "https://github.com/revolution35/UniUI"
+  },
+  {
+    "full_name": "humanprotocol/governance",
+    "url": "https://github.com/humanprotocol/governance"
+  },
+  {
+    "full_name": "goblockchain/sasi",
+    "url": "https://github.com/goblockchain/sasi"
+  },
+  {
+    "full_name": "Magma-Layer/interface",
+    "url": "https://github.com/Magma-Layer/interface"
+  },
+  {
+    "full_name": "danilo0917/uniswap_v3",
+    "url": "https://github.com/danilo0917/uniswap_v3"
+  },
+  {
+    "full_name": "fundDeveloper22/interface",
+    "url": "https://github.com/fundDeveloper22/interface"
+  },
+  {
+    "full_name": "Dhruv-2003/UniswapXPush",
+    "url": "https://github.com/Dhruv-2003/UniswapXPush"
+  },
+  {
+    "full_name": "dongjinjeon/uniswap-interface",
+    "url": "https://github.com/dongjinjeon/uniswap-interface"
+  },
+  {
+    "full_name": "GtpsFinance/gtpsfinance-dex-interface",
+    "url": "https://github.com/GtpsFinance/gtpsfinance-dex-interface"
+  },
+  {
+    "full_name": "PLSFusion/uniswap-interface",
+    "url": "https://github.com/PLSFusion/uniswap-interface"
+  },
+  {
+    "full_name": "guil-lambert/yewbow-interface",
+    "url": "https://github.com/guil-lambert/yewbow-interface"
+  },
+  {
+    "full_name": "hermes1108/synthetix-staking-frontend",
+    "url": "https://github.com/hermes1108/synthetix-staking-frontend"
+  },
+  {
+    "full_name": "1delta-DAO/frontend-cx",
+    "url": "https://github.com/1delta-DAO/frontend-cx"
+  },
+  {
+    "full_name": "hakeemullahjan/push-protocol-integration-into-uniswap-interface",
+    "url": "https://github.com/hakeemullahjan/push-protocol-integration-into-uniswap-interface"
+  },
+  {
+    "full_name": "etherlinkcom/uniswap-interface",
+    "url": "https://github.com/etherlinkcom/uniswap-interface"
+  },
+  {
+    "full_name": "unbanksytv/push-uniswap-frontend-sdk-demo",
+    "url": "https://github.com/unbanksytv/push-uniswap-frontend-sdk-demo"
+  },
+  {
+    "full_name": "AtosGuru/1Base",
+    "url": "https://github.com/AtosGuru/1Base"
+  },
+  {
+    "full_name": "baldfinance/frontend",
+    "url": "https://github.com/baldfinance/frontend"
+  },
+  {
+    "full_name": "xwhiz/E8C_Uniswap_fork",
+    "url": "https://github.com/xwhiz/E8C_Uniswap_fork"
+  },
+  {
+    "full_name": "1999321/Uniswap-web",
+    "url": "https://github.com/1999321/Uniswap-web"
+  },
+  {
+    "full_name": "GtpsFinance/NEWAGEGTPS",
+    "url": "https://github.com/GtpsFinance/NEWAGEGTPS"
+  },
+  {
+    "full_name": "xdefidev/uniswap-clone",
+    "url": "https://github.com/xdefidev/uniswap-clone"
+  },
+  {
+    "full_name": "Nexis-Network/Nexis-Swap",
+    "url": "https://github.com/Nexis-Network/Nexis-Swap"
+  },
+  {
+    "full_name": "samisbakedham/interface",
+    "url": "https://github.com/samisbakedham/interface"
+  },
+  {
+    "full_name": "donex-finance/donex-interface",
+    "url": "https://github.com/donex-finance/donex-interface"
+  },
+  {
+    "full_name": "shadyassan/uniswap-interface",
+    "url": "https://github.com/shadyassan/uniswap-interface"
+  },
+  {
+    "full_name": "glide-finance/glide-widget",
+    "url": "https://github.com/glide-finance/glide-widget"
+  },
+  {
+    "full_name": "duythaong/keyring-swap",
+    "url": "https://github.com/duythaong/keyring-swap"
+  },
+  {
+    "full_name": "jinxer16/daot",
+    "url": "https://github.com/jinxer16/daot"
+  },
+  {
+    "full_name": "mason0510/solidity_attack_awe",
+    "url": "https://github.com/mason0510/solidity_attack_awe"
+  },
+  {
+    "full_name": "AdwindOne/uniswap",
+    "url": "https://github.com/AdwindOne/uniswap"
+  },
+  {
+    "full_name": "darrylyeo/blockhead",
+    "url": "https://github.com/darrylyeo/blockhead"
+  },
+  {
+    "full_name": "usman724/UniswapInterface_Ava",
+    "url": "https://github.com/usman724/UniswapInterface_Ava"
+  },
+  {
+    "full_name": "memoriaXII/interface-deployment",
+    "url": "https://github.com/memoriaXII/interface-deployment"
+  },
+  {
+    "full_name": "RhettButler0529/uniswap-interface",
+    "url": "https://github.com/RhettButler0529/uniswap-interface"
+  },
+  {
+    "full_name": "Sangdana/unitnotip",
+    "url": "https://github.com/Sangdana/unitnotip"
+  },
+  {
+    "full_name": "Emerie111/uniswap_push_frontend",
+    "url": "https://github.com/Emerie111/uniswap_push_frontend"
+  },
+  {
     "full_name": "NerodaMaksim/mobilecoin-front",
     "url": "https://github.com/NerodaMaksim/mobilecoin-front"
-  },
-  {
-    "full_name": "15-Lippo/swap-",
-    "url": "https://github.com/15-Lippo/swap-"
-  },
-  {
-    "full_name": "rumjuice/uniswap-clone",
-    "url": "https://github.com/rumjuice/uniswap-clone"
   },
   {
     "full_name": "ikigai-labs-xyz/hackathon-submission",
@@ -1712,19 +1748,19 @@
     "url": "https://github.com/xdev1016/PocketSwap"
   },
   {
-    "full_name": "Emerie111/uniswap_push_frontend",
-    "url": "https://github.com/Emerie111/uniswap_push_frontend"
+    "full_name": "15-Lippo/swap-",
+    "url": "https://github.com/15-Lippo/swap-"
   },
   {
-    "full_name": "RhettButler0529/uniswap-interface",
-    "url": "https://github.com/RhettButler0529/uniswap-interface"
-  },
-  {
-    "full_name": "Sangdana/unitnotip",
-    "url": "https://github.com/Sangdana/unitnotip"
+    "full_name": "rumjuice/uniswap-clone",
+    "url": "https://github.com/rumjuice/uniswap-clone"
   },
   {
     "full_name": "OurWeb3Lab/frontend-template",
     "url": "https://github.com/OurWeb3Lab/frontend-template"
+  },
+  {
+    "full_name": "seafarer111/uniswap_shibion",
+    "url": "https://github.com/seafarer111/uniswap_shibion"
   }
 ]
