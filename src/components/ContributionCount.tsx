@@ -1,7 +1,16 @@
 'use client';
 import { Card, DonutChart, Legend} from "@tremor/react";
 
-export default function ContributionCount(props:any) {  
+interface DataItem {
+  name: string;
+  // Add other properties if available in your data
+}
+
+interface ContributionCountProps {
+  data: DataItem[];
+}
+
+export default function ContributionCount(props:ContributionCountProps) {  
       
   return(
     <Card className="max-w-2xl">
