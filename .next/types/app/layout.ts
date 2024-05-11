@@ -1,4 +1,4 @@
-// File: C:\Users\boune\Desktop\projet - Copie\src\app\layout.tsx
+// File: C:\Users\boune\Desktop\Uniswap dashboard\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

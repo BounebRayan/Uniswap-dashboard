@@ -16,7 +16,8 @@ export default function StatsCard(props: any) {
     const transformedData = [
       { name: fetchedData.contributions.name, value: fetchedData.contributions.value },
       ...fetchedData.pullRequests,
-      ...fetchedData.issues
+      ...fetchedData.issues,
+      {name:fetchedData.repos.name,value:fetchedData.repos.value}
     ];
     return transformedData;
   };
@@ -24,11 +25,12 @@ export default function StatsCard(props: any) {
   return (
     <Card className="mx-auto max-w-2xl" >
       <p className="text-tremor-default text-tremor-content dark:text-dark-tremor-content">Time Period</p>
-      <Select defaultValue="4" onValueChange={(e) => setTimePeriod(e)}>
+      <Select defaultValue="5" onValueChange={(e) => setTimePeriod(e)}>
+        <SelectItem value="5">All time</SelectItem>
+        <SelectItem value="4">Last year</SelectItem>
+        <SelectItem value="3">Last six months</SelectItem>
+        <SelectItem value="2">Last three months</SelectItem>
         <SelectItem value="1">Last month</SelectItem>
-        <SelectItem value="2">Last six months</SelectItem>
-        <SelectItem value="3">Last year</SelectItem>
-        <SelectItem value="4">All time</SelectItem>
       </Select>
       {data.length > 0 && (
         <BarList data={data} sortOrder="descending" className="mx-auto max-w-xl mt-3" />
@@ -44,9 +46,12 @@ async function fetchEndpointData(timePeriod: string,version:string) {
       url = `/api/getStatsByDate?timePeriod=last_month&version=${version}`;
       break;
     case '2':
-      url = `/api/getStatsByDate?timePeriod=last_six_months&version=${version}`;
+      url = `/api/getStatsByDate?timePeriod=last_three_months&version=${version}`;
       break;
     case '3':
+      url = `/api/getStatsByDate?timePeriod=last_six_months&version=${version}`;
+      break;
+    case '4':
       url = `/api/getStatsByDate?timePeriod=last_year&version=${version}`;
       break;
     default:
@@ -54,6 +59,5 @@ async function fetchEndpointData(timePeriod: string,version:string) {
   }
   const response = await fetch(url);
   const data = await response.json();
-  console.log(data);
   return data;
 }

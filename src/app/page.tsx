@@ -1,4 +1,5 @@
 import Banner from "@/components/Banner";
+import DeveloperStats from "@/components/DeveloperStats";
 import RepositoriesActivities from "@/components/RepositoriesActivities";
 import RepositoriesOverview from "@/components/RepositoriesOverview";
 import TableComponent from "@/components/tableComponent";
@@ -25,11 +26,13 @@ export default function Home() {
           <TabPanel>
             <RepositoriesOverview version="4"/>
             <RepositoriesActivities version="4"/>
+            <DeveloperStats version="4"/>
             <TableComponent version="4"/>
           </TabPanel>
           <TabPanel>
             <RepositoriesOverview version="3"/>
             <RepositoriesActivities version="3"/>
+            <DeveloperStats version="3"/>
             <TableComponent version="3"/>
           </TabPanel>
         </TabPanels>

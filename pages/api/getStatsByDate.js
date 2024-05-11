@@ -21,6 +21,9 @@ export default async function handler(req, res) {
       case 'last_six_months':
         timeFilter = `WHERE date >= ${currentDate - 15778800000}`; // 6 months in milliseconds
         break;
+      case 'last_three_months':
+        timeFilter = `WHERE date >= ${currentDate - 7889400000}`; // 3 months in milliseconds
+        break;
       case 'last_month':
         timeFilter = `WHERE date >= ${currentDate - 2629746000}`; // 1 month in milliseconds
         break;
@@ -29,6 +32,27 @@ export default async function handler(req, res) {
         break;
       default:
         timeFilter = '';
+    }
+    const currentDate2 = new Date();
+    let timeFilter2 = '';
+    switch (timePeriod) {
+      case 'all':
+        timeFilter2 = '';
+        break;
+      case 'last_six_months':
+        timeFilter2 = `WHERE created_at >= ${currentDate2 - 15778800000}`; // 6 months in milliseconds
+        break;
+      case 'last_three_months':
+        timeFilter2 = `WHERE created_at >= ${currentDate - 7889400000}`; // 3 months in milliseconds
+      break;
+      case 'last_month':
+        timeFilter2 = `WHERE created_at >= ${currentDate2 - 2629746000}`; // 1 month in milliseconds
+        break;
+      case 'last_year':
+        timeFilter2 = `WHERE created_at >= ${currentDate - 31556952000}`; // 1 year in milliseconds
+        break;
+      default:
+        timeFilter2 = '';
     }
 
     // Function to execute SQL query and return a promise
@@ -44,6 +68,15 @@ export default async function handler(req, res) {
     // Fetch contribution count
     const contributionQuery = `SELECT COUNT(*) AS contribution_count FROM contributions ${timeFilter}`;
     const contributionResult = await executeQuery(contributionQuery);
+
+    // Fetch contribution count
+    const contributorsQuery = `SELECT COUNT(Distinct(contributor)) AS contributors_count FROM contributions ${timeFilter}`;
+    const contributorsResult = await executeQuery(contributorsQuery);
+
+    // Fetch contribution count
+    const ReposQuery = `SELECT COUNT(*) AS repo_count FROM repositories ${timeFilter2}`;
+    const ReposResult = await executeQuery(ReposQuery);
+    console.log(ReposResult);
 
     // Fetch pull requests count
     const pullQuery = `SELECT 
@@ -75,7 +108,15 @@ export default async function handler(req, res) {
         { name: 'Opened Issues', value: issueResult.open_issues },
         { name: 'Closed Issues', value: issueResult.closed_issues },
         { name: 'Updated Issues', value: issueResult.updated_issues }
-      ]
+      ],
+      contributors :{
+        name :'Contributors',
+        value: contributorsResult.contributors_count
+      },
+      repos :{
+        name: 'Repos',
+        value: ReposResult.repo_count
+      }
     };
 
     // Send the metrics as JSON response
